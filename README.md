@@ -12,10 +12,10 @@ This is a simple ERP system with FastAPI backend and React frontend.
 ## How to run
 
 ### Backend
-cd app
-uvicorn main:app --reload
+-cd app
+-uvicorn main:app --reload
 
 ### Frontend
-cd frontend
-npm install
-npm run dev
+-cd frontend
+-npm install
+-npm run dev
